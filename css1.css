@@ -20,6 +20,8 @@ h1 {
     padding-top: 5%;
     padding-bottom: 5%;
     font-family: "Patua One", monospace;
+    cursor: default;
+    user-select: none;
 }
 
 body>section{
