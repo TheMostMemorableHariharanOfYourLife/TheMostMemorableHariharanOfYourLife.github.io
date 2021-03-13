@@ -1,5 +1,7 @@
 * {
     text-align: center;
+    cursor: default;
+    user-select: none;
   }
   
 body {
@@ -56,7 +58,5 @@ div:hover {
     float: left;
     margin-left: 5px;
     margin-right: 5px;
-    cursor: default;
-    user-select: none;
 }
 
